@@ -1,5 +1,5 @@
 ### My portfolio website
-(published at https://mihaiguidea.github.io/Portfolio/)
+( published at https://mihaiguidea.github.io/Portfolio/ )
 
 Portfolio created based on a template from html5up.net, modified and improved on my preference. 
 
